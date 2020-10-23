@@ -10,6 +10,9 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-wabbalinux@gmail.com-c14438
 
 <!-- Links to your social media accounts -->
 
+### - Social 
+        https://twitter.com/Gabriel3Lanteri
+
 [1]: https://twitter.com/Gabriel3Lanteri/
 
 ### - 🔭 Something about me ...
