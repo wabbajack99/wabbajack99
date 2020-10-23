@@ -11,7 +11,7 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-wabbalinux@gmail.com-c14438
 <!-- Links to your social media accounts -->
 
 ### - Social 
-        [![Twitter Badge](http://i.imgur.com/wWzX9uB.png https://twitter.com/Gabriel3Lanteri)]
+        [![Twitter Badge](http://i.imgur.com/wWzX9uB.png)]
 
 [1]: https://twitter.com/Gabriel3Lanteri/
 
