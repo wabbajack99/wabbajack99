@@ -12,7 +12,7 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-wabbalinux@gmail.com-c14438
 
 [1]: https://twitter.com/Gabriel3Lanteri/
 
-### - 🧑 Something about me ...
+### - 🧑 Something contact me ...
         🏙️ From Genoa, Italy
         🚑 Italian White Cross Rescuer
         🎓 Computer Science Student at UNIGE
