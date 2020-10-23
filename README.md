@@ -15,7 +15,7 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-wabbalinux@gmail.com-c14438
 ### - 🧑 Something about me ...
         🏙️ From Genoa, Italy
         ⛑️ Italian White Cross Rescuer
-### - 🌱 I’m currently learning:<br>
+### - 📚 I’m currently learning:<br>
         💻 Computer Security
         🌐 Web Application Development
         🏭 Software Engineering
