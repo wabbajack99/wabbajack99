@@ -1,7 +1,7 @@
 # Hi there 👋
 ## This is [![Github Badge](https://img.shields.io/badge/-Wabbajack99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Wabbajack99/)](https://www.github.com/Wabbajack99/) 
 
-### - 📫 How to reach me:<br>
+### - 📫 How to contact me:<br>
 Email: [![Gmail Badge](https://img.shields.io/badge/-wabbalinux@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wabbalinux@gmail.com)](mailto:wabbalinux@gmail.com)<br>
 <!--Social media: [![Twitter][1.2]][1]-->
 <!-- Icons [![Instagram][2.1]][2]-->
@@ -12,7 +12,7 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-wabbalinux@gmail.com-c14438
 
 [1]: https://twitter.com/Gabriel3Lanteri/
 
-### - 🧑 Something contact me ...
+### - 🧑 Something about me ...
         🏙️ From Genoa, Italy
         🚑 Italian White Cross Rescuer
         🎓 Computer Science Student at UNIGE
