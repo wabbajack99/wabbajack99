@@ -16,11 +16,6 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-gabrielelanteri9@gmail.com-
         🏙️ From Genoa, Italy
         🚑 Italian White Cross Rescuer
         🎓 Computer Science Student at UNIGE
-### - 📚 I’m currently learning:<br>
-        💻 Data Science
-        🌐 Multimedia Apps and Future Internet 
-        🏭 Concurrent Programming and Distributed Algorithms 
-        #️⃣ Signal and Image Processing 
         
 ### - 🧰 Toolbox:
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=IDE&logoColor=white&color=red)![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=red)![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat&logo=IDE&logoColor=white&color=red)![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=IDE&logoColor=white&color=red)![](https://img.shields.io/badge/OS-Windowsx64-informational?style=flat&logo=Windows&logoColor=white&color=red)![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
